@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css"/>
+  <title>Tabela de Preços</title>
+</head>
+<body>
+<!-- Menu Bootsrap -->
+<nav class="navbar navbar-expand-lg bg-light fixed-top">
+  <div class="container-fluid">
+    <a href="index.html" class="navbar-brand">Let's Exchange</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+        <a class="nav-link" href="sobrenos.html">Sobre Nós</a>
+        <a class="nav-link" href="criptomoedas.html">Criptomoedas</a>
+        <a class="nav-link" href="tabeladeprecos.html">Tabela de Preços</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Banner Principal (Padding Espaçamento Interno Do Bloco// Margin Espaçamento Externo)-->
+<div class="container-fluid">
+  <div class="row justify-content-center my-5">
+    <div class="col-md-12 text-center pt-5">
+      <h1>Tabela de Preços</h1>
+    </div>
+  </div>
+  <div class="row justify-content-center"> <!-- Justifica as colunas no centro --><!-- Classes Separadas Espaço -->
+    <div class="col-md-12 p-2">
+      <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Ticker</th>
+          <th scope="col">Nome</th>
+          <th scope="col">Cotação</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td><img src="imgs/table-icons/bitcoin.png" class="img-coin m-2"/>BTC</td>
+          <td>Bitcoin</td>
+          <td>R$105.451,87</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td><img src="imgs/table-icons/etherum.png" class="img-coin m-2"/>ETH</td>
+          <td>Etherum</td>
+          <td>R$8,09883</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td><img src="imgs/table-icons/cardano.png" class="img-coin m-2"/>ADA</td>
+          <td>Cardano</td>
+          <td>R$2,09</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td><img src="imgs/table-icons/bnb.png" class="img-coin m-2"/>BNB</td>
+          <td>Binance Coin</td>
+          <td>R$1,691.38</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td><img src="imgs/table-icons/dogecoin.png" class="img-coin m-2"/>DOGE</td>
+          <td>Dogecoin</td>
+          <td>R$0,6597</td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td><img src="imgs/table-icons/solana.png" class="img-coin m-2"/>SOL</td>
+          <td>Solana</td>
+          <td>R$169.40</td>
+        </tr>
+        <tr>
+          <th scope="row">7</th>
+          <td><img src="imgs/table-icons/tether.png" class="img-coin m-2"/>USDT</td>
+          <td>Tether</td>
+          <td>R$5,17</td>
+        </tr>
+        <tr>
+          <th scope="row">8</th>
+          <td><img src="imgs/table-icons/xrp.png" class="img-coin m-2"/>XRP</td>
+          <td>XRP</td>
+          <td>R$2.35</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Rodapé -->
+<footer class="container-fluid">
+  <div class="row justify-content-between bg-footer"> <!--between espalha para os dois cantos-->
+    <div class="col-md-4 p-5">
+      <h4 class="ps-3 mb-5">Informações</h4>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item bg-footer"><a href="index.html">Home</a></li>
+        <li class="list-group-item bg-footer"><a href="sobrenos.html">Sobre Nós</a></li>
+        <li class="list-group-item bg-footer"><a href="criptomoedas.html">Criptomoedas</a></li>
+        <li class="list-group-item bg-footer"><a href="tabeladeprecos.html">Tabela de Preços</a></li>
+      </ul>
+    </div>
+
+    <div class="col-md-4 p-5">
+      <h4 class="ps-3 mb-5">Contato</h4>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item bg-footer">contato@letscorretora.com.br</li>
+        <li class="list-group-item bg-footer"><img src="imgs/whatsapp.png" class="img-footer"/> 11 9778-4552</li>
+      </ul>
+    </div>
+
+  </div>
+</footer>
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+</body>
+</html>

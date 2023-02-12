@@ -1,0 +1,77 @@
+html{
+    scroll-behavior: smooth;
+}
+.img-coin{
+    max-width: 25px; /* width = largura ---- o ponto é só para classes criadas, em tags chamamos ela sem ponto*/
+}
+.bg-banner{
+    background-color: #a3e7fe;
+}
+.bg-footer{
+    background-color: #77b3c6;
+}
+a{
+    color: unset;
+    text-decoration: none;
+}
+footer a:hover {
+    color:white;
+}
+.img-sede{
+    max-height: 400px;
+    max-width: 77%;
+}
+.img-footer{
+    max-width: 15px;
+    max-height: 15px;
+}
+.banner-principal h1{
+    color: white;
+    font-weight: bold;
+}
+.banner-principal p{
+    color: #537B87;
+    font-size: larger;
+}
+.bg-title{
+    background-color: white;
+}
+.bg-title h1{
+    color: black;
+}
+.txt-page p{
+    font-size: large;
+}
+.bg-bignumbers{
+    background-color: #88CDE2;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 2px;
+}
+.bg-bignumbers h1{
+    color: white;
+    font-weight: bolder;
+}
+td{
+    vertical-align: middle !important;
+}
+.txt-sobrenos p{
+    line-height: 28px;
+}
+figcaption {
+    font-style: italic;
+    color: darkgrey;
+}
+.bg-social-proof{
+    background-color: #7DBBCE;
+}
+.bg-social-proof p{
+    color: white;
+    font-style: italic;
+    font-size: 22px;
+    font-family: "Times New Roman";
+}
+.img-social-proof{
+    max-width: 100px;
+    max-height: 100px;
+}
