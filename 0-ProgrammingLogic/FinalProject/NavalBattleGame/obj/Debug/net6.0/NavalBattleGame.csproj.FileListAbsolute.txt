@@ -1,0 +1,15 @@
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/bin/Debug/net6.0/NavalBattleGame
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/bin/Debug/net6.0/NavalBattleGame.deps.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/bin/Debug/net6.0/NavalBattleGame.runtimeconfig.json
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/bin/Debug/net6.0/NavalBattleGame.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/bin/Debug/net6.0/NavalBattleGame.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.csproj.AssemblyReference.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.AssemblyInfoInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.AssemblyInfo.cs
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.csproj.CoreCompileInputs.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/refint/NavalBattleGame.dll
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.pdb
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/NavalBattleGame.genruntimeconfig.cache
+/Users/novo/Desktop/TECNOLOGIA/CSHARP PROJECTS/NavalBattleGame/obj/Debug/net6.0/ref/NavalBattleGame.dll
